@@ -5,12 +5,17 @@ font-family:"Roboto",
     background-color: #FFFFFF
 }
 
+
+@font-face {
+    font-family: "Raleway",
+        sans-serif;
+    src: url('https: //fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
 .logo {
     font-family: "Raleway",
         sans-serif;
-        src: url('https: //fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');;
-        font-weight: 700
-       
+        font-weight: 700;     
 }
 
 
